@@ -14,15 +14,8 @@
 
         /* 1. Variables */
         
-/*         $variable = "Hello Duuuuuude";
-        echo $variable; */
-
-        /* 2. Errores */
-        /* 2.1 Parse error: syntax error */
-        $variable = "Hello Duuuuuude";
+        $variable = "<br>Hello Duuuuuude";
         echo $variable;
-        /* 2.2 Warning */
-        echo $variablefgfggfgfgfgfgfg;
     ?>
 </body>
 </html>
